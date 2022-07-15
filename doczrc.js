@@ -1,3 +1,3 @@
 export default {
-    title: "XR Houston Policies"
+    title: "1 on 1 Rap"
 }
